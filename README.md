@@ -1,0 +1,1 @@
+# Configuration---enable-gpl---enable-version3---enable-sdl2---enable-bzlib---enable-fontco
